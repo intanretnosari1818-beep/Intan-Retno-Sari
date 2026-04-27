@@ -1,0 +1,13 @@
+/*Styles CSS*/
+.box1 {
+    width: 10cm;
+    height: 5cm;
+    background-color: lightcoral;
+    margin: 0;
+}
+.box2 {
+    width: 15cm;
+    height: 8cm;
+    background-color: lightskyblue;
+    margin: 0;
+}
